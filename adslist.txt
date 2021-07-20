@@ -8,6 +8,15 @@
 0.0.0.0 msgr-latest.c10r.facebook.com
 0.0.0.0 gadk.hit.gemius.pl
 0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 frontimg.dk
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 river-prod-non-pin-247678697.us-east-1.elb.amazonaws.com
+0.0.0.0 river-mobile.eadpdata.ddns.ea.com
+0.0.0.0 www.tm.ak.prd.aadg.trafficmanager.net
+0.0.0.0 ak.privatelink.msidentity.com
+0.0.0.0 in2-gw2-01-ce7dd027.eastus2.cloudapp.azure.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 mars.tnt-ea.com
 ### STABLE ###
 0.0.0.0 r1---sn-4g57kn7d.googlevideo.com
 0.0.0.0 r1---sn-4g57knek.googlevideo.com
