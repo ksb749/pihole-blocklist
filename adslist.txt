@@ -1,6 +1,8 @@
 ### TESTING ###
 0.0.0.0 r2---sn-xoxgbphpqu-3g2l.googlevideo.com
 0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 http://betterbannerscloud.com
+0.0.0.0 http://static.onads.dk
 ### STABLE ###
 0.0.0.0 r1---sn-4g57kn7d.googlevideo.com
 0.0.0.0 r1---sn-4g57knek.googlevideo.com
