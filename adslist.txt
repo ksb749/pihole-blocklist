@@ -1,4 +1,9 @@
 ### TESTING ###
+0.0.0.0 sni1gl.wpc.omegacdn.net
+0.0.0.0 coi-prod.azureedge.net
+0.0.0.0 scdn1.wpc.810db.omegacdn.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 r2---sn-xoxgbphpqu-3g2l.googlevideo.com
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 betterbannerscloud.com
